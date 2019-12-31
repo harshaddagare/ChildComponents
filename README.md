@@ -1,2 +1,0 @@
-# ChildComponents
-Created with CodeSandbox
